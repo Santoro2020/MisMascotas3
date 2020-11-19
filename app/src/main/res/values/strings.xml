@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MisMascotas2</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acercade">Acerca de</string>
+    <string name="titulo_favoritos">Mis perros favoritos</string>
+
+    <string name="pformcontacto">CONTACTO</string>
+    <string name="pnombre">Nombre completo</string>
+    <string name="pemail">Email</string>
+    <string name="pcomentario">Comentario</string>
+    <string name="bt_siguiente">Registrar Comentario</string>
+
+    <string name="btenviarmail">Enviar Email</string>
+    <string name="bt_edit">Editar Comentario</string>
+    <string name="Confirmardatos">Datos</string>
+    <string name="textemail">Email: </string>
+    <string name="textcoment">Comentario: </string>
+    <string name="Titulofragment">Mis perros</string>
+    <string name= "Rating">5</string>
+
+    <string name="titulo_fragmentrecyclerview">Petagram</string>
+
+</resources>
